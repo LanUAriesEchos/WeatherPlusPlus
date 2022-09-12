@@ -11,3 +11,7 @@ This mod must contain:
 
 
 Project start date: Monday September 12.
+
+# I was inspired by
+
+This mod was inspired by the weather2 mod(Weather, Storms & Tornadoes)
