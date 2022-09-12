@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "WeatherPP",
+        "name": "WeatherPlusPlus",
+        "description": "The new wather plugin for Minecraft 1.19.2 adding storms, tornados, hail etc",
+        "version": "1.0-Bef2a",
+        "mcVersion": "1.19.2",
+        "url": "https://github.com/LanUAriesEchos",
+        "updateUrl": "",
+        "authorList": ["LanUAriesEchos"],
+        "credits": "LanU",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
