@@ -8,7 +8,8 @@ This mod must contain:
 
 
 
-
+# IMPORTANT!
+I am looking for helpers with this project you can dm me on discord @ LanUnrestrictedAriesEchos#1406
 
 Project start date: Monday September 12.
 
